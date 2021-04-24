@@ -1,0 +1,1 @@
+CREATE TABLE  ( useres(int,string,string);
